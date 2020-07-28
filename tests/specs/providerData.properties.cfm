@@ -4,7 +4,7 @@ variables.providerInfo = {
 		'clientId'    : '1234567890',
 		'clientSecret': 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX',
 		'redirect_uri': 'http://redirect.fake'
-	}
+  },
 };
 </cfscript>
 
